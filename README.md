@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tevinhendricks
 - 👀 I’m interested in PHP, Web Development and Mobile Development
-- 🌱 I’m currently learning PHPH and Angular
+- 🌱 I’m currently learning PHP and Angular
 - 💞️ I’m looking to collaborate on Systems Development and web development
 - 📫 How to reach me tevinhendricks16@gmail.com
 
